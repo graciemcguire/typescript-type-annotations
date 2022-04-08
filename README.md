@@ -1,4 +1,4 @@
-# TypeScript Understanding Types
+# Understanding Types
 
 ## Learning Goals
 
