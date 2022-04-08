@@ -1,4 +1,4 @@
-# TypeScript Type Annotations (and values and variables?) // Type Definitions
+# TypeScript Understanding Types
 
 ## Learning Goals
 
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-- different ways to utilize ts to our benefit
+- different ways to utilize types to our benefit
 - adding types to things helps us see errors quickly
 
 ## Type Inference
